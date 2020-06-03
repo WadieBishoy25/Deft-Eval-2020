@@ -4,7 +4,7 @@
 
 
 <p align="center">
- Team members 🤟: <b>Nour El-Din Salah, Anas Hamed,</b> and <b>Wadie Bishoy</b>
+ Team members 🤟: <b>Wadie Bishoy, Nour El-Din Salah,</b> and <b>Anas Hamed</b>
 </p>
 
 
